@@ -22,5 +22,5 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Jwatts82&show_icons=true) 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwatts82" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwatts82" />
 </a>
