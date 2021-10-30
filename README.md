@@ -17,8 +17,7 @@
 <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 
  #### Currently Learning: 
-<img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="Vue" height="40" style="verticle-align:top; margin: 4px">
-<img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="Typescript" height="40" style="verticle-align:top; margin: 4px">
+<img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="Vue" height="40" style="verticle-align:top; margin: 4px"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="Typescript" height="40" style="verticle-align:top; margin: 4px">
 
 
 
