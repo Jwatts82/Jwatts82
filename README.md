@@ -1,4 +1,6 @@
-## Hi I Am Jessica
+## Hi I'm Jessica
+
+### I am a full-stack software engineer.  I love programing, hiking, the ocean, traveling and sports.
 
 
 ## Languages & Frameworks 
