@@ -12,8 +12,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" height="40" style="verticle-align:top; margin: 4px">
-<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor
-" alt="Sass" height="40" style="verticle-align:top; margin: 4px">
+<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Sass" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 
 
