@@ -1,3 +1,5 @@
+## Hi I Am Jessica
+
 
 ## Languages & Frameworks 
 <p align="center">
@@ -12,7 +14,7 @@
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
-<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 
  #### Currently Learning: 
