@@ -14,6 +14,8 @@
 <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
+<img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
+
 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Jwatts82&show_icons=true)
