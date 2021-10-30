@@ -15,4 +15,6 @@
 <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="Ruby" height="40" style="verticle-align:top; margin: 4px">
 
+<br>
+<br>
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Jwatts82&show_icons=true)
