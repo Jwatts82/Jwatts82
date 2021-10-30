@@ -6,7 +6,7 @@
 
 <img  alt="HTML5" width="26px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
 
-<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="CSS3" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
 
 <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 
