@@ -22,5 +22,5 @@
  #### Currently Learning: 
 <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="Vue" height="40" style="verticle-align:top; margin: 4px"><img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="Typescript" height="40" style="verticle-align:top; margin: 4px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwatts82&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
